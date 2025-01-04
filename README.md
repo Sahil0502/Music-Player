@@ -31,7 +31,7 @@ The Music Player project is a feature-rich, web-based application designed to of
 ### Steps to Run
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Sahil0502/Music-Player.git
    cd music-player
    ```
 
